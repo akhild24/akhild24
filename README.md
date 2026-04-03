@@ -34,10 +34,7 @@
 
 ## Featured projects
 
-**[Form Intelligence API](https://github.com/your-username/repo-name)**
-FastAPI RAG chatbot · Dockerized (multi-stage) → AWS ECR → ECS Fargate · Terraform IaC (dev/prod) · GitHub Actions CI/CD · CloudWatch monitoring
-
-**[Python Microservice on EKS](https://github.com/your-username/repo-name)**
+**[python-microservices-aws](https://github.com/akhild24/python-microservices-aws)**
 Python microservice architecture · Docker · AWS EKS · Helm charts
 
 **[COE Website](https://github.com/your-username/repo-name)**
