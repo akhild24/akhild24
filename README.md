@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/akhil-dwivedi33">LinkedIn</a> ·
-  <a href="akhildwvivedi453@gmail.com">Email</a> ·
+  <a href="mailto:akhildwivedi453@gmail.com">Email</a> ·
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen" />
 </p>
 
