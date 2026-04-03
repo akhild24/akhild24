@@ -37,7 +37,7 @@
 **[python-microservices-aws](https://github.com/akhild24/python-microservices-aws)**
 Python microservice architecture · Docker · AWS EKS · Helm charts
 
-**[COE Website](https://github.com/your-username/repo-name)**
+**[centerofexcellence](https://github.com/sujaldef/centerofexcellence)**
 Event management platform with RBAC · Full-stack
 
 ---
