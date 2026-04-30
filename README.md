@@ -42,7 +42,7 @@ Event management platform with RBAC · Full-stack
 
 **[Udaan](https://github.com/akhild24/Argus_ai)**
 Hyperpersonalized AI system for underserved students · Hackathon project · Deployed using EC2
-Live link: 
+Live link: http://54.226.99.254
 
 ---
 
