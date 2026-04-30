@@ -40,6 +40,10 @@ Python microservice architecture · Docker · AWS EKS · Helm charts
 **[centerofexcellence](https://github.com/sujaldef/centerofexcellence)**
 Event management platform with RBAC · Full-stack
 
+**[Udaan](https://github.com/akhild24/Argus_ai)**
+Hyperpersonalized AI system for underserved students · Hackathon project · Deployed using EC2
+Live link: 
+
 ---
 
 ## Currently
