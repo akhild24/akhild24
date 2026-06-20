@@ -33,6 +33,8 @@
 ---
 
 ## Featured projects
+**[model-deployment](https://github.com/akhild24/model-deployment)**
+ML serving platform on AWS EKS · Terraform · HPA · ALB Ingress Controller
 
 **[python-microservices-aws](https://github.com/akhild24/python-microservices-aws)**
 Python microservice architecture · Docker · AWS EKS · Helm charts
