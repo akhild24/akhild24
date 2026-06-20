@@ -12,7 +12,7 @@
 ---
 
 ## About me
-- 🎓 B.Tech CS @ Medicaps University (2027) · GPA 7.67
+- 🎓 B.Tech CS @ Medicaps University (2027) · GPA 7.73
 - ☁️ Cloud Mentor @ Google Developer Group on Campus
 - 🛠️ Previously SDE Intern @ 47Billion, Indore
 - 🚀 Currently building: Form Intelligence API (FastAPI → Docker → AWS ECS Fargate)
