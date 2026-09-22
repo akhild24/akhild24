@@ -6,16 +6,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akhil-dwivedi33">LinkedIn</a> ·
   <a href="mailto:akhildwivedi453@gmail.com">Email</a> ·
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen" />
-</p>
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-brightgreen" alt="Open to Work" /></p>
 
 ---
 
 ## About me
 - 🎓 B.Tech CS @ Medicaps University (2027) · GPA 7.73
 - 🛠️ Previously SDE Intern @ 47Billion, Indore — built a RAG chatbot and did full-stack + VAPT
-- 🎯 Seeking DevOps / Cloud / AI full time role
-
+- 🎯 Seeking DevOps / Cloud / AI internships & full-time roles (2027 grad)
 ---
 
 ## Tech stack
